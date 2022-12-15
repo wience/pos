@@ -1,0 +1,5 @@
+[2022-04-02 23:21:34] live.EMERGENCY: ERROR: NOT ALLOWED: Mismatch between sold and purchase quantity. Product: Hgt SKU: PB0037 Quantity: 1 Business: Green Maxx Location: Green Maxx  
+[2022-04-02 23:21:34] live.EMERGENCY: File:/home2/greenol0/public_html/application/app/Utils/TransactionUtil.phpLine:3027Message:ERROR: NOT ALLOWED: Mismatch between sold and purchase quantity. Product: Hgt SKU: PB0037 Quantity: 1  
+[2022-04-02 23:21:47] live.EMERGENCY: ERROR: NOT ALLOWED: Mismatch between sold and purchase quantity. Product: Apple iPhone 13 SKU: App13 Quantity: 1 Business: Green Maxx Location: Green Maxx  
+[2022-04-02 23:21:47] live.EMERGENCY: File:/home2/greenol0/public_html/application/app/Utils/TransactionUtil.phpLine:3027Message:ERROR: NOT ALLOWED: Mismatch between sold and purchase quantity. Product: Apple iPhone 13 SKU: App13 Quantity: 1  
+[2022-04-02 23:36:00] live.EMERGENCY: File:/home2/greenol0/public_html/application/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:371Message:No query results for model [App\Category] 8  

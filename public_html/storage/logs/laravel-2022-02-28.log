@@ -1,0 +1,7 @@
+[2022-02-28 01:53:50] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-02-28 01:53:50] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-02-28 01:53:51] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-02-28 02:58:49] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/spatie/laravel-permission/src/Exceptions/PermissionAlreadyExists.phpLine:11Message:A `draft.view_own` permission already exists for guard `web`.  
+[2022-02-28 13:34:52] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-02-28 13:34:57] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-02-28 13:35:02] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  

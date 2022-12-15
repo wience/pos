@@ -1,0 +1,10 @@
+[2022-03-22 14:03:03] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-03-22 14:34:25] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-03-22 14:35:12] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-03-22 14:35:13] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-03-22 14:35:14] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-03-22 14:35:15] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-03-22 14:35:17] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-03-22 14:35:17] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-03-22 16:39:11] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/app/Http/Controllers/OpeningStockController.phpLine:166Message:Invalid argument supplied for foreach()  
+[2022-03-22 16:40:03] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/app/Http/Controllers/OpeningStockController.phpLine:166Message:Invalid argument supplied for foreach()  

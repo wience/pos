@@ -1,0 +1,3 @@
+[07-Dec-2021 12:31:43 UTC] PHP Notice:  Undefined index: customer_name in /home/o5qbolf0zoyk/pos.1pixelcoding.com/public/print_label.php on line 13
+[07-Dec-2021 12:31:43 UTC] PHP Notice:  Undefined index: customer_phone in /home/o5qbolf0zoyk/pos.1pixelcoding.com/public/print_label.php on line 17
+[07-Dec-2021 12:31:43 UTC] PHP Notice:  Undefined index: job_number in /home/o5qbolf0zoyk/pos.1pixelcoding.com/public/print_label.php on line 25

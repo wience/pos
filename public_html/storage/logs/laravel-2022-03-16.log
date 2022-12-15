@@ -1,0 +1,2 @@
+[2022-03-16 23:26:24] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
+[2022-03-16 23:28:19] demo.EMERGENCY: File:/home/o5qbolf0zoyk/pos.1pixelcoding.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:454Message:No query results for model [App\Variation].  
